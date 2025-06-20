@@ -37,10 +37,5 @@ Student student = new Student();
 student.input();
 
 student.print();   
-
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 82da058ba1fcac0e81c5c61f44e0c5b2540f0cb1
 }
